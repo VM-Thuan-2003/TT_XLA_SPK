@@ -1,0 +1,5 @@
+1. Trinh bày tóm tắt bộ lọc kalman fiter
+2. Trinh bày thuật toán IOU tracker.
+3. Giải thích class detection - init -__repr__
+4. Giải thích class method step() và method activ_tracks() (hint - iou - delete - create traker detector)
+5. Chạy 3 thí nghiệm trong motpy github
